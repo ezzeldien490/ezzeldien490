@@ -51,7 +51,7 @@ I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell" alt="Shell" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
+
 
 </div>
 
